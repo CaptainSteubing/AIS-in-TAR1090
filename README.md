@@ -1,3 +1,5 @@
+ The below code is now integrated in TAR1090 which can show vessels sourced from AIS-catcher by default from version 3.14.1600. Hence, below is no longer needed.
+
 # AIS-in-tar1090
 
 Through some creative manipulation, it is feasible to incorporate ship positions gathered by [AIS-catcher](https://github.com/jvde-github/AIS-catcher) into [tar1090](https://github.com/wiedehopf/tar1090), presenting both ships and planes in a unified display. However, it's important to note that this process can be somewhat cumbersome and should be undertaken cautiously, with appropriate backups in place. It's worth emphasizing that this is primarily a proof of concept to demonstrate visualizing AIS-catcher's GeoJSON output, rather than a solution to include AIS data in tar1090.
